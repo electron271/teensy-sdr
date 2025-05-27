@@ -447,11 +447,13 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "teensy"
+      "teensy",
+      "teensy-sdr"
     ],
     "pinned_symbol_libs": [
       "teensysdr",
-      "teensy"
+      "teensy",
+      "teensy-sdr"
     ]
   },
   "meta": {
