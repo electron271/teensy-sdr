@@ -58,7 +58,128 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|126410000|61240000|6f94d2d5-c320-401e-92f1-0168608e6766|1547e4ac-0cae-4388-8ad8-c794ca1ac962",
+          "Edge Mounted SMA Antenna, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|126410000|61240000|6f94d2d5-c320-401e-92f1-0168608e6766|2e312697-0b53-4eb2-b5d1-69be6700e66d",
+          "Edge Mounted SMA Antenna, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|130855000|61240000|6f94d2d5-c320-401e-92f1-0168608e6766|5d7786aa-2a23-4bb4-88d2-058e9b996224",
+          "Edge Mounted SMA Antenna, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|135170000|61240000|6f94d2d5-c320-401e-92f1-0168608e6766|506f40f5-3267-4e33-8122-989bd339aac0",
+          "Edge Mounted SMA Antenna, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|135170000|61240000|6f94d2d5-c320-401e-92f1-0168608e6766|b1dc990a-2062-49cd-ae66-d4c51da01279",
+          "Edge Mounted SMA Antenna, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|196689050|118107208|6f94d2d5-c320-401e-92f1-0168608e6766|4dbe852d-e97f-42d0-a314-c9915e6c3cc2",
+          "Edge Mounted Switch, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|196689050|125507208|6f94d2d5-c320-401e-92f1-0168608e6766|7cc82890-74df-48dd-9336-701454f34b8a",
+          "Edge Mounted Switch, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|196968962|118552208|6f94d2d5-c320-401e-92f1-0168608e6766|1520b8a1-74d7-45ca-9ef6-4c3a3e294e94",
+          "Edge Mounted Switch, Error Expected."
+        ],
+        [
+          "copper_edge_clearance|196968962|125952208|6f94d2d5-c320-401e-92f1-0168608e6766|01fd97fd-71be-47b9-980f-3180d592bf7f",
+          "Edge Mounted Switch, Error Expected."
+        ],
+        [
+          "footprint_type_mismatch|132000000|65500000|2cb73675-9d6c-4675-8b22-bbef29c1b868|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "hole_clearance|190013962|103800000|094632a4-5f3d-4ec6-ade0-97de54fcddab|2450708a-d8ae-4167-84de-18f5c42ab777",
+          "It is how it is"
+        ],
+        [
+          "hole_clearance|190013962|103800000|094632a4-5f3d-4ec6-ade0-97de54fcddab|3218fbe5-14e0-4103-a77f-2765466acf6a",
+          "It is how it is"
+        ],
+        [
+          "hole_clearance|190013962|97700000|dd2560d7-df07-465e-9247-4ac06c824f9d|b9852e8e-894d-4c17-8a43-577525e8feb3",
+          "It is how it is"
+        ],
+        [
+          "hole_clearance|190013962|97700000|dd2560d7-df07-465e-9247-4ac06c824f9d|d7596e6d-fbc4-4a87-814a-696890948536",
+          "It is how it is"
+        ],
+        [
+          "lib_footprint_mismatch|145585000|124500000|c2de2e09-cda6-4c5b-a26d-a39febf99e04|00000000-0000-0000-0000-000000000000",
+          "Edited to remove unused pin headers"
+        ],
+        [
+          "lib_footprint_mismatch|184450000|113635000|fd80d4cf-9455-4b08-bf4e-7e52f482897b|00000000-0000-0000-0000-000000000000",
+          "Edited for minimum drill size"
+        ],
+        [
+          "silk_edge_clearance|156868962|60750000|6f94d2d5-c320-401e-92f1-0168608e6766|c393510a-daf1-4b9b-837b-f8e9381ac2d8",
+          "JLCPCB will handle this"
+        ],
+        [
+          "silk_edge_clearance|163068962|60750000|6f94d2d5-c320-401e-92f1-0168608e6766|07ed26cf-ad38-4722-bfe7-df9c98be929d",
+          "JLCPCB will handle this"
+        ],
+        [
+          "starved_thermal|126575000|79700000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|25856208-7f71-421d-a3b7-e8125c121782|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|128480000|74500000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|f31e41b2-0faf-4f3b-b4ab-b44c26c254e0|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|129625000|132120000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|e34dfa63-29b2-4269-a48b-c8e11a0fd993|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|131020000|74500000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|5adf3056-4d04-4e61-9ce8-6c0705527861|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|131655000|74500000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|0f0c1283-2683-4338-a1ff-bcf9e30f005b|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|132165000|116880000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|75488ea8-85b3-43c6-9f81-573c87c89733|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|132700000|70000000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|0b84093e-5fe1-4818-9fb5-25b8e7199947|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|132802810|117517810|13da8883-d4d9-4416-9ee6-0c6f793a25c1|75488ea8-85b3-43c6-9f81-573c87c89733|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|134862500|72200000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|c718181b-f89e-4d57-a9a2-7496ef1597ad|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|146725000|74387500|13da8883-d4d9-4416-9ee6-0c6f793a25c1|47e0b4c5-b873-4c4a-9e5b-9e55482d3eba|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|189588962|97550000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|b9852e8e-894d-4c17-8a43-577525e8feb3|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|189588962|97550000|13da8883-d4d9-4416-9ee6-0c6f793a25c1|d7596e6d-fbc4-4a87-814a-696890948536|F.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -102,7 +223,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "error",
         "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -139,7 +260,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -249,7 +370,36 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|3492500|2286000|953a0711-ca58-4f1b-ab3d-35816042945f|ba73eccc-6bf9-481d-b248-115fef469dc6|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435",
+        "Battery"
+      ],
+      [
+        "pin_to_pin|647700|2222500|8b972822-1e12-4796-8659-4b72f067e081|195ad5fc-47cb-49a7-a3e6-8621dd0443e1|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435",
+        "Opendrain"
+      ],
+      [
+        "pin_to_pin|647700|2222500|8b972822-1e12-4796-8659-4b72f067e081|4c9d6434-252d-49b4-8402-36199459db7e|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435",
+        "Opendrain"
+      ],
+      [
+        "pin_to_pin|647700|2247900|4c9d6434-252d-49b4-8402-36199459db7e|195ad5fc-47cb-49a7-a3e6-8621dd0443e1|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435",
+        "Opendrain"
+      ],
+      [
+        "power_pin_not_driven|3289300|2133600|7e8069ea-b62d-427a-9320-0b84ff904a7f|00000000-0000-0000-0000-000000000000|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|",
+        "It is, USB Port"
+      ],
+      [
+        "power_pin_not_driven|3492500|1155700|5a022330-8f51-4fcd-ba52-63fde75e4062|00000000-0000-0000-0000-000000000000|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|3632200|2159000|ab97591b-2711-4833-9e3e-5f41e5e9e17b|00000000-0000-0000-0000-000000000000|/a68da72b-cee0-4014-82d5-72ba290b0435|/a68da72b-cee0-4014-82d5-72ba290b0435|",
+        "It is, theres a Switch inbetween."
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -516,8 +666,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "gbr/",
+      "pos_files": "gbr/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -589,12 +739,42 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

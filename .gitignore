@@ -34,3 +34,8 @@ fp-info-cache
 *.log
 *.raw
 .svg2shenzhen-cache
+
+# Production files
+production
+gbr
+fabrication-toolkit-options.json
