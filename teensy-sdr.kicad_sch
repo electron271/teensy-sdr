@@ -8489,16 +8489,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 114.3) (xy 190.5 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3425001c-e5f1-496f-bc70-c9cd17fbfc61")
-	)
-	(wire
-		(pts
 			(xy 44.45 199.39) (xy 44.45 212.09)
 		)
 		(stroke
@@ -8649,16 +8639,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 116.84) (xy 187.96 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ccf3a1b-9fbb-4f7a-9685-ae6200c112a7")
-	)
-	(wire
-		(pts
 			(xy 53.34 34.29) (xy 48.26 34.29)
 		)
 		(stroke
@@ -8806,6 +8786,16 @@
 			(type default)
 		)
 		(uuid "439fd007-ce6e-4562-aec4-23d9e33b3207")
+	)
+	(wire
+		(pts
+			(xy 187.96 116.84) (xy 190.5 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "445077ec-9759-434d-9ed4-e3cc3fb96918")
 	)
 	(wire
 		(pts
@@ -11059,6 +11049,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 114.3) (xy 190.5 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e67c8257-0917-4b5e-9044-72bb4d177ce7")
+	)
+	(wire
+		(pts
 			(xy 86.36 38.1) (xy 83.82 38.1)
 		)
 		(stroke
@@ -11751,7 +11751,7 @@
 	)
 	(global_label "SDR_DOUT"
 		(shape input)
-		(at 187.96 114.3 180)
+		(at 187.96 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11761,7 +11761,7 @@
 		)
 		(uuid "50f257f1-148c-4303-8123-79a1bcb7ab8c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.8795 114.3 0)
+			(at 177.8795 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11971,7 +11971,7 @@
 	)
 	(global_label "AMP_DIN"
 		(shape output)
-		(at 187.96 116.84 180)
+		(at 187.96 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11981,7 +11981,7 @@
 		)
 		(uuid "8cfdc6bf-043f-4369-9203-40a1a380ebb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.1858 116.84 0)
+			(at 179.1858 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
